@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Salt Application</string>
+    <string name="webtitle">Learn more: Wisenbaker Engineering Building</string>
+    <string name="projectsstringtitle">Learn More: Electrical Engineering Projects</string>
+    <string name="SeeEngineeringProjects">Learn more about Wisenbaker Engineering Building?</string>
+    <string name="ImSalt">I\'m Salt!</string>
+    <string name="aboutmetitle">About Me</string>
+    <string name="back">Back</string>
+    <string name="aboutWEB">Almost any technology that distinguishes the 20th and 21st centuries from previous history has the imprint of electrical and computer engineering — electric power, radio, television, radar, satellite communication, global positioning system, medical diagnostic and procedure systems, sophisticated domestic appliances, cell phones, computers and sophisticated sensors and control systems used in underwater, space exploration and national security. Electrical engineering has indeed advanced national and global prosperity through research, development and application of electrical and information technologies and sciences for the benefit of humanity, and has helped create the global village. By choosing electrical or computer engineering our graduates embark on an exciting and productive career with endless opportunities and help in shaping a better future for mankind.</string>
+    <string name="aboutsalt">Hi there! I am Salt. I am one of two humanoid robots that live here in Wisenbaker Engineering Building! I can recognize faces, enjoy a conversation, and roll around, and use my sensors and cameras to avoid obstacles. One of my favorite things to do is ask people how they are doing. Many people all over the world have adopted humanoid robots just like me, using them for activities to assist in welcoming, inform, and guide visitors in a new innovative way.</string>
+    <string name="faq">What is the national ranking of Texas A&amp;M Electrical and Computer Engineering?</string>
+    <string name="faq2">What is the enrollment in Electrical and Computer Engineering?</string>
+    <string name="faq3">How many people graduate with an Electrical and Computer Engineering degree?</string>
+    <string name="faq4">How many professors work in this department?</string>
+    <string name="faq5">Who do I talk to about majoring in Electrical and Computer Engineering?</string>
+    <string name="answer1">The department\'s graduate program is ranked 10th for computer engineering and 12th for electrical engineering among public institutions by U.S. News &amp; World Report.</string>
+    <string name="answer2">Enrollment at Texas A&amp;M Electrical and Computer Engineering:\nEnrollment (Fall 2016)\n
+Undergraduate	961\n
+Graduate	713\n
+Total Enrollment	1674</string>
+    <string name="answer3">Graduation Rates:\nDegrees Awarded\n
+Bachelor\'s	196\n
+Master\'s	138\n
+Ph.D.	44\n
+Total Awarded	278</string>
+    <string name="answer4">Professors: 44\nAssociate Professors: 18\nAssistant Professors: 10\nSenior Lecturers: 3\nSenior Professors: 1\n</string>
+    <string name="answer5">You may contact the Prospective Students Center located at the Koldus Building.</string>
+</resources>
+
